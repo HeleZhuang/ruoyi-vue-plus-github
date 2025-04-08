@@ -1,2 +1,2 @@
 # ruoyi-vue-plus-github
-测试远程仓库
+ruoyi-plus测试远程仓库
